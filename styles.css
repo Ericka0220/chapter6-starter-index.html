@@ -1,7 +1,7 @@
 /* Chapter 6 starter: edit the rules below and add your own. */
 * { box-sizing: border-box; }
 body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: #183046; background: #e9f1f5; }
-.page-wrapper { width: 90%; max-width: 1100px; min-height: 260px; margin: 0 auto; background: white; }
+.page-wrapper { width: 90%; max-width: 1100px; min-height: 260px; margin-left: auto; margin-right: auto; background: white; }
 .site-header { background: #164b82; color: white; padding: 24px; }
 nav { padding: 16px 24px; background: #dcecf5; }
 nav a { margin-right: 16px; color: #164b82; }
